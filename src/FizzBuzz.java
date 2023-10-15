@@ -4,7 +4,7 @@
 class FizzBuzz {
 
     public static void main(String[] args) {
-
+        //asdkfajsdfca
         int i = 1;
         while (i < 100) {
             i = doFizzBuzz(i);
